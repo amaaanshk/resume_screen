@@ -1,0 +1,16 @@
+Taylor Morgan
+tmorgan.analytics@gmail.com | +1-555-731-8842
+
+Summary:
+Junior Data Analyst with 1 year of experience in statistical analysis, Excel modeling, and data visualization.
+
+Education:
+Bachelor of Science (B.Sc) in Statistics, 2023
+
+Technical Skills:
+Python, SQL, Excel, Tableau, Pandas, Power BI, HTML
+
+Experience:
+Data Analyst Intern at InsightCorp (2023 - 2024)
+- Created business dashboards in Tableau and Power BI.
+- Cleaned relational datasets using SQL queries and basic Python scripts.

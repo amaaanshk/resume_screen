@@ -1,0 +1,17 @@
+Jordan Smith
+jordan.smith@techdomain.org | +1-555-482-9901
+linkedin.com/in/jordansmith-dev | github.com/jsmith-codes
+
+Summary:
+Full-Stack Developer with 3 years experience building responsive web platforms with React, Node.js, and Python.
+
+Education:
+Bachelor of Technology in Computer Engineering (B.Tech), 2021
+
+Technical Skills:
+JavaScript, TypeScript, React, Node.js, Python, Django, PostgreSQL, SQL, Docker, Git, HTML, CSS
+
+Experience:
+Software Engineer at CloudScale Labs (2021 - Present)
+- Built interactive dashboard frontends using React and modern CSS.
+- Designed backend REST APIs with Python Django and PostgreSQL databases.
